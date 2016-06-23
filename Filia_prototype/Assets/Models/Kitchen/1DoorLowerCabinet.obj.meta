@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 5d82d7c43fbb49d4d9a8562521e1bc1b
+timeCreated: 1466597178
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_3_3
+    100004: PolyMesh_1_11
+    100006: PolyMesh_1_3
+    100008: PolyMesh_1_7
+    100010: PolyMesh_4
+    100012: PolyMesh_6
+    100014: Spline_Mesh_4_14
+    100016: Spline_Mesh_4_15
+    100018: Spline_Mesh_4_6
+    100020: Spline_Mesh_4_7
+    100022: Tube_1_14
+    100024: Tube_1_15
+    100026: Tube_1_6
+    100028: Tube_1_7
+    100030: verthandle_3
+    100032: verthandle_7
+    400000: //RootNode
+    400002: Cube_3_3
+    400004: PolyMesh_1_11
+    400006: PolyMesh_1_3
+    400008: PolyMesh_1_7
+    400010: PolyMesh_4
+    400012: PolyMesh_6
+    400014: Spline_Mesh_4_14
+    400016: Spline_Mesh_4_15
+    400018: Spline_Mesh_4_6
+    400020: Spline_Mesh_4_7
+    400022: Tube_1_14
+    400024: Tube_1_15
+    400026: Tube_1_6
+    400028: Tube_1_7
+    400030: verthandle_3
+    400032: verthandle_7
+    2300000: Cube_3_3
+    2300002: PolyMesh_1_11
+    2300004: PolyMesh_1_3
+    2300006: PolyMesh_1_7
+    2300008: PolyMesh_4
+    2300010: PolyMesh_6
+    2300012: Spline_Mesh_4_14
+    2300014: Spline_Mesh_4_15
+    2300016: Spline_Mesh_4_6
+    2300018: Spline_Mesh_4_7
+    2300020: Tube_1_14
+    2300022: Tube_1_15
+    2300024: Tube_1_6
+    2300026: Tube_1_7
+    2300028: verthandle_3
+    2300030: verthandle_7
+    3300000: Cube_3_3
+    3300002: PolyMesh_1_11
+    3300004: PolyMesh_1_3
+    3300006: PolyMesh_1_7
+    3300008: PolyMesh_4
+    3300010: PolyMesh_6
+    3300012: Spline_Mesh_4_14
+    3300014: Spline_Mesh_4_15
+    3300016: Spline_Mesh_4_6
+    3300018: Spline_Mesh_4_7
+    3300020: Tube_1_14
+    3300022: Tube_1_15
+    3300024: Tube_1_6
+    3300026: Tube_1_7
+    3300028: verthandle_3
+    3300030: verthandle_7
+    4300000: Cube_3_3
+    4300002: PolyMesh_1_11
+    4300004: PolyMesh_1_3
+    4300006: PolyMesh_1_7
+    4300008: PolyMesh_4
+    4300010: PolyMesh_6
+    4300012: Spline_Mesh_4_14
+    4300014: Spline_Mesh_4_15
+    4300016: Spline_Mesh_4_6
+    4300018: Spline_Mesh_4_7
+    4300020: Tube_1_14
+    4300022: Tube_1_15
+    4300024: Tube_1_6
+    4300026: Tube_1_7
+    4300028: verthandle_3
+    4300030: verthandle_7
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
