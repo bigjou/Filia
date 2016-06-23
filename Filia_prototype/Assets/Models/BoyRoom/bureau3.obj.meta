@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 314a0a6321b5615469e898f7bfff0c5f
+timeCreated: 1466678721
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_11_12
+    100004: Cube_11_1_15
+    100006: Cube_1_1
+    100008: Cube_2_1_3
+    100010: Cube_2_2
+    100012: Cube_2_2_4
+    100014: Cube_3_1_11
+    100016: Cube_3_5
+    100018: Cube_4_6
+    100020: Cube_5_7
+    100022: Cube_6_8
+    100024: Cube_7_9
+    100026: Cube_8_10
+    100028: Cube_8_1_16
+    100030: Cylinder_1_13
+    100032: Cylinder_1_1_14
+    400000: //RootNode
+    400002: Cube_11_12
+    400004: Cube_11_1_15
+    400006: Cube_1_1
+    400008: Cube_2_1_3
+    400010: Cube_2_2
+    400012: Cube_2_2_4
+    400014: Cube_3_1_11
+    400016: Cube_3_5
+    400018: Cube_4_6
+    400020: Cube_5_7
+    400022: Cube_6_8
+    400024: Cube_7_9
+    400026: Cube_8_10
+    400028: Cube_8_1_16
+    400030: Cylinder_1_13
+    400032: Cylinder_1_1_14
+    2300000: Cube_11_12
+    2300002: Cube_11_1_15
+    2300004: Cube_1_1
+    2300006: Cube_2_1_3
+    2300008: Cube_2_2
+    2300010: Cube_2_2_4
+    2300012: Cube_3_1_11
+    2300014: Cube_3_5
+    2300016: Cube_4_6
+    2300018: Cube_5_7
+    2300020: Cube_6_8
+    2300022: Cube_7_9
+    2300024: Cube_8_10
+    2300026: Cube_8_1_16
+    2300028: Cylinder_1_13
+    2300030: Cylinder_1_1_14
+    3300000: Cube_11_12
+    3300002: Cube_11_1_15
+    3300004: Cube_1_1
+    3300006: Cube_2_1_3
+    3300008: Cube_2_2
+    3300010: Cube_2_2_4
+    3300012: Cube_3_1_11
+    3300014: Cube_3_5
+    3300016: Cube_4_6
+    3300018: Cube_5_7
+    3300020: Cube_6_8
+    3300022: Cube_7_9
+    3300024: Cube_8_10
+    3300026: Cube_8_1_16
+    3300028: Cylinder_1_13
+    3300030: Cylinder_1_1_14
+    4300000: Cube_11_12
+    4300002: Cube_11_1_15
+    4300004: Cube_1_1
+    4300006: Cube_2_1_3
+    4300008: Cube_2_2
+    4300010: Cube_2_2_4
+    4300012: Cube_3_1_11
+    4300014: Cube_3_5
+    4300016: Cube_4_6
+    4300018: Cube_5_7
+    4300020: Cube_6_8
+    4300022: Cube_7_9
+    4300024: Cube_8_10
+    4300026: Cube_8_1_16
+    4300028: Cylinder_1_13
+    4300030: Cylinder_1_1_14
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
